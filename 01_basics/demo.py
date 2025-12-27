@@ -1,4 +1,5 @@
-# python will skip execution of this file 
-a = 10
-b = 20
-print(a+b)
+# python will skip execut
+x = "Ravi"
+y = "thirty"
+z = "python"
+print(x+y+z)
